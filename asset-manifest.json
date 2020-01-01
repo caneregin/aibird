@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aibird/static/css/main.d1b05096.chunk.css",
-    "main.js": "/aibird/static/js/main.e13712c8.chunk.js",
-    "main.js.map": "/aibird/static/js/main.e13712c8.chunk.js.map",
+    "main.js": "/aibird/static/js/main.9f8899dd.chunk.js",
+    "main.js.map": "/aibird/static/js/main.9f8899dd.chunk.js.map",
     "runtime-main.js": "/aibird/static/js/runtime-main.f13243e4.js",
     "runtime-main.js.map": "/aibird/static/js/runtime-main.f13243e4.js.map",
     "static/js/2.a8eabf94.chunk.js": "/aibird/static/js/2.a8eabf94.chunk.js",
     "static/js/2.a8eabf94.chunk.js.map": "/aibird/static/js/2.a8eabf94.chunk.js.map",
     "index.html": "/aibird/index.html",
-    "precache-manifest.396a0d4d2b170949e44d50a772b024ae.js": "/aibird/precache-manifest.396a0d4d2b170949e44d50a772b024ae.js",
+    "precache-manifest.8137b5d31d1028d877328720a229b858.js": "/aibird/precache-manifest.8137b5d31d1028d877328720a229b858.js",
     "service-worker.js": "/aibird/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/aibird/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.a8eabf94.chunk.js.LICENSE": "/aibird/static/js/2.a8eabf94.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f13243e4.js",
     "static/js/2.a8eabf94.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e13712c8.chunk.js"
+    "static/js/main.9f8899dd.chunk.js"
   ]
 }

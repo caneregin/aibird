@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d324c3c5b2807959f3ba7b56d9706a9",
+    "revision": "e0268923665179e32ffdf8b3f71e9340",
     "url": "/aibird/index.html"
   },
   {
-    "revision": "a2c0a070b287015935b1",
+    "revision": "d76004cd2c3b25552661",
     "url": "/aibird/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aibird/static/js/2.a8eabf94.chunk.js.LICENSE"
   },
   {
-    "revision": "a2c0a070b287015935b1",
-    "url": "/aibird/static/js/main.e13712c8.chunk.js"
+    "revision": "d76004cd2c3b25552661",
+    "url": "/aibird/static/js/main.9f8899dd.chunk.js"
   },
   {
     "revision": "4d9bc718797dc44e0980",
