@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aibird/precache-manifest.ac69ee94caaa9084453f0b569d1a8d53.js"
+  "/aibird/precache-manifest.71cbe1186dda795c377bf659f0728da9.js"
 );
 
 self.addEventListener('message', (event) => {
